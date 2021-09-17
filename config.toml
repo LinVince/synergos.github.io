@@ -10,7 +10,7 @@ paginate = "4"
 # Post excerpt length
 summaryLength = "30"
 # Disabled languages
-disableLanguages = []
+disableLanguages = "de fr it"
 # Short name to enable Disqus comments
 disqusShortname = "" # Get your shortname from here: https://disqus.com/profile/signup/
 # Measurement ID (G-XXXXXXX) to enable Google Analytics
