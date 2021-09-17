@@ -7,7 +7,7 @@ menu:
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "synergos.github.io/images/slider.png"
+  bg_image: "images/slider.png"
   bg_overlay: true
   title: <b>workload reduction <br/> & task automation</b>
   content: <br/><p style="font-size:24px; color:#dedede"><b>Save time for your family, and yourself</b><br/><br/></p>
@@ -27,7 +27,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "synergos.github.io/images/programming.jpg"
+  bg_image: "images/programming.jpg"
   title: <b style="font-size:36px;line-height:40px; color:#dedede">Revival of Programming in EFL</b>
   content: <p style="font-size:24px;line-height:40px; color:#dedede">Programming has disappeared in EFL teacher development since the 1990s.</p> <p style="font-size:24px;line-height:40px; color:#dedede"> The power of present-day programming is undervalued. Let us pick it up and work our magic with programming. </p><br/><iframe width="420" height="315" src="https://www.youtube.com/embed/XQgXKtPSzUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   button:
